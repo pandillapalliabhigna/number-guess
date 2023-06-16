@@ -1,0 +1,18 @@
+body{
+    background-color:darkslategrey;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    margin-top: 400px;
+    margin-bottom: 300px;
+    height:300px;
+    width:600px;
+    padding:0%;
+    border:2px solid white;
+    margin:auto;
+    margin-top:5%;
+    background-color:black;
+    color:white;
+    text-align:left;
+}
